@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddesh1210&label=Profile%20views&color=0e75b6&style=flat" alt="siddesh1210" /> </p>
 
 
-- 🌱 I’m currently learning **Java Backend (SpringBoot + Servlet + Hibernate + SQL)**
+- 🌱 I’m currently learning **Java Backend (SpringBoot)**
 
 - 👨‍💻 All of my projects are available at [https://siddeshjaiswal-portfolio.vercel.app/](https://siddeshjaiswal-portfolio.vercel.app/)
 
