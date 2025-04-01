@@ -8,15 +8,15 @@
 
 - 🌱 Enthusiastic about **Software Development**
 
-- 👨‍💻 All of my projects are available at [https://siddeshjaiswal-portfolio.vercel.app/](https://siddeshjaiswal-portfolio.vercel.app/)
-
 - 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, Javascript, SQLDB**
+
+- 👨‍💻 All of my projects are available on [Siddesh-Jaiswal-Portfolio](https://siddeshjaiswal-portfolio.vercel.app/)
 
 - 📫 How to reach me **siddeshjaiswal12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WTdr4SoKu8LtJg3FSpDRzSuuTU9CRJC-/view](https://drive.google.com/file/d/1WTdr4SoKu8LtJg3FSpDRzSuuTU9CRJC-/view)
+- 📄 Know my experience [Resume](https://drive.google.com/file/d/1WTdr4SoKu8LtJg3FSpDRzSuuTU9CRJC-/view)
 
-- ⚡ Fun fact **Coding as a Hobby: A significant majority, 70% of software developers, code as a hobby. I'm on a way thinking is coding my hobby?**
+- ⚡ Fun fact **Coding as a Hobby: A significant majority, 80% of software developers, code as a hobby. I'm on a way thinking is coding my hobby?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
