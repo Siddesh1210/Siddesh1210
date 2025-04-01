@@ -6,15 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddesh1210&label=Profile%20views&color=0e75b6&style=flat" alt="siddesh1210" /> </p>
 
 
-- 🌱 I’m currently learning **Java Backend (SpringBoot)**
+- 🌱 Enthusiastic about **Software Development**
 
 - 👨‍💻 All of my projects are available at [https://siddeshjaiswal-portfolio.vercel.app/](https://siddeshjaiswal-portfolio.vercel.app/)
 
-- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB**
+- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, Javascript, SQLDB**
 
 - 📫 How to reach me **siddeshjaiswal12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11KjZfvTH7elN3ogHsCSzzVcB9KNgSp3B/view](https://drive.google.com/file/d/11KjZfvTH7elN3ogHsCSzzVcB9KNgSp3B/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WTdr4SoKu8LtJg3FSpDRzSuuTU9CRJC-/view](https://drive.google.com/file/d/1WTdr4SoKu8LtJg3FSpDRzSuuTU9CRJC-/view)
 
 - ⚡ Fun fact **Coding as a Hobby: A significant majority, 70% of software developers, code as a hobby. I'm on a way thinking is coding my hobby?**
 
